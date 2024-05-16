@@ -1,13 +1,14 @@
 ## Glossary
 
 - **ASDC**: Atmospheric Science Data Center (at NASA Langley Research Center)
-- **FOR**: field of regard
+- **BTDF**: Bidirectional Transmittance Distribution Function
+- **FOR**: Field of Regard
 - **GEOS**: Goddard Earth Observing System
 - **GEOS-CF**: GEOS Composition Forecasting
-- **GPSR**: global positioning system receiver
-- **INR**: image navigation and registration
-- **RD**: reference diffuser
+- **GPSR**: Global Positioning System Receiver
+- **INR**: Image Navigation and Registration
+- **RD**: Reference Diffuser
 - **SAO**: Smithsonian Astrophysical Observatory
 - **SDPC**: Science Data Processing Center (at SAO)
 - **TEMPO**: Tropospheric Emissions: Monitoring of Pollution
-- **WD**: working diffuser
+- **WD**: Working Diffuser
