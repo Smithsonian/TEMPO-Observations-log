@@ -6,157 +6,45 @@ Last updated on 5/16/24
 For acronyms, see the TEMPO [glossary](glossary.md)
 
 |Date | Log |
-|--- | ---|
-| 3/22/24 | Solar Cal RD
-| 3/23/24 | Solar Cal WD
-| 3/24-27/2024 | Citylight measurements for full field of regard
-| 3/28/24 | 
-| 10/17/2023| **SDPC v4.1** <br> operational processing started (9 hrs)
-| 10/18/2023| Frequent data dropouts (missing data), INR might fail and no
-subsequent data products
-|10/19/2023 | **Solar cal Working Diffuser (WD)** <br>
-Frequent data dropouts (missing data), INR might fail and no
-subsequent data products
-|10/20/2023 | Frequent data dropouts (missing data), INR might fail and no
-subsequent data products
-|10/21/2023 |Frequent data dropouts (missing data), INR might fail and no
-subsequent data products
+|:-| ----|
+| 10/17/2023| **SDPC v4.1** operational processing started (9 hrs)
+| 10/18/2023| Frequent data dropouts (missing data), INR might fail and no subsequent data products
+|10/19/2023 | **Solar cal Working Diffuser (WD)** <br> Frequent data dropouts (missing data), INR might fail and no subsequent data products
+|10/20/2023 | Frequent data dropouts (missing data), INR might fail and no subsequent data products
+|10/21/2023 |Frequent data dropouts (missing data), INR might fail and no subsequent data products
 |10/23/2023| Some data dropout
-|10/26/2023| **Solar cal WD** <br>
-|10/29/2023| Bad INR almost all day (**no L2 data products** <br>) (R2.3.8 restart
-issue), will be reprocessed later with SDPC v4.2.
-|10/30/2023| Data dropout, Scan 2 (S002) scan position got stuck midway
-through scan (12:21:57Z - 13:01:43Z). Kept imaging of the same
-location. Scan 2 was still processed. Scan 3 back to normal.
+|10/26/2023| **Solar cal WD** 
+|10/29/2023| Bad INR almost all day (**no L2 data products**) (R2.3.8 restart issue), will be reprocessed later with SDPC v4.2.
+|10/30/2023| Data dropout, Scan 2 (S002) scan position got stuck midway through scan (12:21:57Z - 13:01:43Z). Kept imaging of the same location. Scan 2 was still processed. Scan 3 back to normal.
 |11/02/2023| **Solar cal WD** <br>
-|11/08/2023| bad INR for scans 1-7 (R2.3.8 restart issue). Scans 8-9 are ok,
-CSM interrupted after s009. L2 data products available for scans
-1-9.
-|11/09/2023| **Solar cal WD**<br>
-Intelsat anc_gps dropout 16:50-20:03Z, affecting scans 7-11.
-Manually restart for scan 12, ok after that. Missing data can be
-reprocessed.
-|11/16/2024| **Solar cal WD**<br>
-
-11/18/2024
-
-SDPC v4.2 operational processing started (INR improvement),
-boresight correction slightly changes solar observation time,
-scanning plan was updated with an option to make sure that
-overpass time within the hour for a particular location is more or
-less predictable. The scanning plan update takes effect on
-11/23/2023 (did not use this option in the science planning).
-
-11/22/2023
-
-Data Drop out. Scan 6 not at ASDC. INR crashed and then
-restarted.
-Major slowdown Internet GS copying starting about 21:30Z. Scans
-11,12,13 not at ASDC. Scan 14 and 15 there at ASDC.
-
-11/23/2023
-
-Solar cal WD (pre boresight correction)
-
-11/24/2024
-
-Solar cal WD (post boresight correction), no obvious difference
-from 11/23 as BTDF different is taken into account
-
-11/29/2023
-
-1 data drop out, inr crashed. Scan 5 not processed, not at ASDC.
-
-11/30/2023
-
-Solar cal WD
-Scan 3 (S003) scan position got stuck midway through scan. Kept
-imaging of the same location. Scan 3 was processed. Scan 4 back
-to normal.
-
-12/1/2023
-
-Intelsat encrypted downlink data -- change to GS. Got some corrupted
-telemetry data starting about 2:13 pm EST, apid 150 --scan mechanism
-telemetry like cma_pos (cal mechanism resolver position) and
-sma_last_x_pos. Back to normal around 4pm EST.
-Note: I am not sure how this affects the science but I note it. This would
-translate to about 19:13Z to 21:00Z, so Scan 9 (18:57:33-19:57:14Z) and
-Scan 10 (19:57:33-20:57:14Z) and the beginning of Scan 11
-(20:57:33-21:37:19) would be affected.
-
-12/7/2023
-
-Solar cal WD
-
-12/10/2023
-
-Data dropout. inr crashed. Scan 5 not processed, not at ASDC.
-
-12/14/2023
-
-Solar cal WD
-
-12/21/2023
-
-Solar cal WD
-Incorrect packaging of morning dark granules; city lights dark frames
-stored in the same file with radiance dark frames.
-
-12/22/2023
-
-Solar cal Reference Diffuser (RD)
-Citylight measurements (West & East Coast, 88s exposure)
-
-12/23/2023
-
-Solar cal WD
-Citylight measurements (West & East Coast, 88s exposure)
-
-12/24-27/2023
-
-Citylight measurements (West & East Coast, 88s exposure)
-
-12/28/2023
-
-Solar cal WD
-
-1/4/2024
-
-Solar cal WD
-
-1/11/2024
-
-Solar cal WD
+|11/08/2023| bad INR for scans 1-7 (R2.3.8 restart issue). Scans 8-9 are ok, CSM interrupted after s009. L2 data products available for scans 1-9.
+|11/09/2023| **Solar cal WD**<br> Intelsat anc_gps dropout 16:50-20:03Z, affecting scans 7-11. Manually restart for scan 12, ok after that. Missing data can be reprocessed. 
+|11/16/2023| **Solar cal WD**
+|11/18/2023| **SDPC v4.2** operational processing started (INR improvement), boresight correction slightly changes solar observation time, scanning plan was updated with an option to make sure that overpass time within the hour for a particular location is more or less predictable (did not use this option in the science planning).
+|11/22/2023|Data Drop out. Scan 6 not at ASDC. INR crashed and then restarted. Major slowdown Internet GS copying starting about 21:30Z. Scans 11,12,13 not at ASDC. Scan 14 and 15 there at ASDC.
+|11/23/2023| **Solar cal WD (pre boresight correction)**
+|11/24/2023| **Solar cal WD (post boresight correction)**, no obvious difference from 11/23 as BTDF different is taken into account
+|11/29/2023| 1 data drop out, inr crashed. Scan 5 not processed, not at ASDC.
+|11/30/2023| **Solar cal WD** <br> Scan 3 (S003) scan position got stuck midway through scan. Kept imaging of the same location. Scan 3 was processed. Scan 4 back to normal.
+|12/1/2023| Intelsat
+|12/7/2023| **Solar cal WD**
+|12/10/2023| Data dropout. inr crashed. Scan 5 not processed, not at ASDC.
+|12/14/2023| **Solar cal WD**
+|12/21/2023| **Solar cal WD** <br> Incorrect packaging of morning dark granules; city lights dark frames stored in the same file with radiance dark frames.
+|12/22/2023| **Solar cal Reference Diffuser (RD)** <br> Citylight measurements (West & East Coast, 88s exposure)
+|12/23/2023| **Solar cal WD** <br> Citylight measurements (West & East Coast, 88s exposure)
+|12/24-27/2023| Citylight measurements (West & East Coast, 88s exposure)
+|12/28/2023| **Solar cal WD**
+|1/4/2024| **Solar cal WD**
+|1/11/2024| **Solar cal WD**<br>
 Citylight measurements (West & East Coast, 44s exposure)
-
-1/11-17/2024
-
+|1/11-17/2024| Citylight measurements (West & East Coast, 44s exposure)
+|1/18/2024| **Solar cal WD**<br>
 Citylight measurements (West & East Coast, 44s exposure)
-
-1/18/2024
-
-Solar cal WD
-Citylight measurements (West & East Coast, 44s exposure)
-
-1/19-24/2024
-
-Citylight measurements (West & East Coast, 44s exposure)
-
-1/22/2024
-
-GOES-16 CMI product outage from 1720Z on 1/22 until 0040Z on
-1/23. Effect on INR quality appears minor.
-
-1/24/2024
-
-TEMPO in safe mode due to spacecraft GPSR and pointing error
-
-1/25/2024
-
-TEMPO brought out of safe mode, but TEMPO clock lost sync
-with spacecraft clock, GPSR problem remain, not ready for
-operation until 2/1/2024
+|1/19-24/2024| Citylight measurements (West & East Coast, 44s exposure)
+|1/22/2024| GOES-16 CMI product outage from 1720Z on 1/22 until 0040Z on 1/23. Effect on INR quality appears minor.
+|1/24/2024| **TEMPO in safe mode** due to spacecraft GPSR and pointing error
+|1/25/2024| **TEMPO brought out of safe mode, but TEMPO clock lost sync with spacecraft clock, GPSR problem remain, not ready for operation until 2/1/2024**
 
 2024-02-01
 
