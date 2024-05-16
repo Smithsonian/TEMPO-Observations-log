@@ -36,160 +36,44 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |12/24-27/2023| Citylight measurements (West & East Coast, 88s exposure)
 |12/28/2023| **Solar cal WD**
 |1/4/2024| **Solar cal WD**
-|1/11/2024| **Solar cal WD**<br>
-Citylight measurements (West & East Coast, 44s exposure)
+|1/11/2024| **Solar cal WD**<br> Citylight measurements (West & East Coast, 44s exposure)
 |1/11-17/2024| Citylight measurements (West & East Coast, 44s exposure)
-|1/18/2024| **Solar cal WD**<br>
-Citylight measurements (West & East Coast, 44s exposure)
+|1/18/2024| **Solar cal WD**<br> Citylight measurements (West & East Coast, 44s exposure)
 |1/19-24/2024| Citylight measurements (West & East Coast, 44s exposure)
 |1/22/2024| GOES-16 CMI product outage from 1720Z on 1/22 until 0040Z on 1/23. Effect on INR quality appears minor.
 |1/24/2024| **TEMPO in safe mode** due to spacecraft GPSR and pointing error
 |1/25/2024| **TEMPO brought out of safe mode, but TEMPO clock lost sync with spacecraft clock, GPSR problem remain, not ready for operation until 2/1/2024**
-
-2024-02-01
-
-TEMPO operations resume (but GPSR still not used for
-control, INR degrades but can still meet the INR requirement).
-Solar Cal WD
+|2024-02-01| *TEMPO operations resume (but GPSR still not used for
+control, INR degrades but can still meet the INR requirement).* <br>
+**Solar Cal WD** <br> Citylight measurements (Chicago and Houston, 44s exposure)
+|2024-02-02| No GEOS-CF forecast update <br>
 Citylight measurements (Chicago and Houston, 44s exposure)
-
-2024-02-02
-
-No GEOS-CF forecast update
-Citylight measurements (Chicago and Houston, 44s exposure)
-
-2/3-6/2024
-
-Citylight measurements (Chicago and Houston, 44s exposure)
-
-2/7/2024
-
-Citylight measurements (Chicago and Houston, 44s exposure)
-Scan 2 (S002) scan position got stuck near the end of a scan.
-Kept imaging of the same location. Scan 2 was processed. Scan 3
-back to normal.
-
-2/8/2024
-
-Solar Cal WD
+|2/3-6/2024| Citylight measurements (Chicago and Houston, 44s exposure)
+|2/7/2024| Citylight measurements (Chicago and Houston, 44s exposure) <br>
+Scan 2 (S002) scan position got stuck near the end of a scan. Kept imaging of the same location. Scan 2 was processed. Scan 3 back to normal.
+|2/8/2024| **Solar Cal WD** <br>
 Citylight measurements (Full FOR coverage, ~12.7s exposure)
-
-2/9-11/2024
-
-Citylight measurements (Full FOR coverage, ~12.7s exposure)
-
-2/15/2024
-
-Solar Cal WD
-
-Citylight measurements (Partial FOR coverage due to reduced
-measurement time related to gradual season change, ~12.7s
-exposure)
-2/16-21/2024
-
-Citylight measurements (Partial FOR coverage due to reduced
-measurement time related to gradual season change, ~12.7s
-exposure)
-
-2/22/2024
-
-Solar Cal WD
-Citylight measurements (Partial FOR coverage due to reduced
-measurement time related to gradual season change, ~12.7s)
-tilted northward to measure Aurora
-
-2/22-28/2024
-
-Citylight measurements (~12.7s), tilted northward to measure
-Aurora
-
-2/29/2024
-
-Solar Cal WD
-Same Citylight measurements as last week
-
-3/1-6/2024
-
-Citylight measurements (~12.7s), tilted northward to measure
-Aurora
-
-3/7/2024
-
-Solar Cal WD
-Citylight measurements (Las Vegas, Chicago, LA, Houston, DFW
-regions) with ~120s exposure time with 19 coadds, tilted northward
-to measure Aurora
-
-3/8-13/2024
-
-Citylight measurements (~120s exposure time with 19 coadds)
-tilted northward to measure Aurora
-
-3/14/2024
-
-Solar Cal WD
-Citylight measurements for full field of regard with ~6.3s (1 coadd)
-exposure time, no tilting north
-
-3/14-20/2024
-
-Citylight measurements for full field of regard with ~6.3s (1 coadd)
-exposure time
-
-3/21/2024
-
-Solar Cal WD
-Citylight measurements for full field of regard with ~6.3s (1 coadd)
-exposure time, no tilting north
-At 2024-03-21T15:36:31Z, @rawtol0@ started reporting
-frequent data corruption, duplicated and late packets, which is
-related to planned maintenance activities at Riverside (from
-10Am-10PM EST).
-Three scans (006, 009, 014 could not be processed due to INR
-failure).
-
-3/22/2024
-
-Solar Cal RD
-
-Citylight measurements for full field of regard with ~6.3s (1 coadd)
-exposure time, no tilting north
-3/23/2024
-
-Solar Cal WD
-Citylight measurements for full field of regard with ~6.3s (1 coadd)
-exposure time, no tilting north
-
-3/24-27/2024
-
-Citylight measurements for full field of regard with ~6.3s (1 coadd)
-exposure time, no tilting north
-
-3/28/2024
-3/28-4/03/2024
-
-Solar Cal WD
-Citylight measurements for full field of regard with ~6.3s (1 coadd)
-exposure time, no tilting north
-
-4/4/2024
-4/4-10/2024
-
-Solar Cal WD
-Citylight measurements for full field of regard with ~3s (1 coadd)
-exposure time, no tilting north
-
-4/11/2024
-4/11-17/2024
-
-Solar Cal WD
-Citylight measurements for full field of regard with ~3s (1 coadd)
-exposure time, no tilting north
-
-4/18/2024
-4/18-24/2024
-
-Solar Cal WD
-Citylight measurements for full field of regard with ~3s (1 coadd)
-exposure time, no tilting north
-
+|2/9-11/2024| Citylight measurements (Full FOR coverage, ~12.7s exposure)
+|2/15/2024| **Solar Cal WD** <br> Citylight measurements (Partial FOR coverage due to reduced measurement time related to gradual season change, ~12.7s exposure)
+|2/16-21/2024| Citylight measurements (Partial FOR coverage due to reduced measurement time related to gradual season change, ~12.7s exposure)
+|2/22/2024| **Solar Cal WD** <br> Citylight measurements (Partial FOR coverage due to reduced measurement time related to gradual season change, ~12.7s) <br> tilted northward to measure Aurora
+|2/22-28/2024| Citylight measurements (~12.7s), tilted northward to measure Aurora
+|2/29/2024| **Solar Cal WD** <br> Same Citylight measurements as last week
+|3/1-6/2024| Citylight measurements (~12.7s), tilted northward to measure Aurora
+|3/7/2024| **Solar Cal WD** <br> Citylight measurements (Las Vegas, Chicago, LA, Houston, DFW regions) with ~120s exposure time with 19 coadds, tilted northward to measure Aurora
+|3/8-13/2024| Citylight measurements (~120s exposure time with 19 coadds) tilted northward to measure Aurora
+|3/14/2024| **Solar Cal WD** <br> Citylight measurements for full field of regard with ~6.3s (1 coadd) exposure time, no tilting north
+|3/14-20/2024| Citylight measurements for full field of regard with ~6.3s (1 coadd) exposure time
+|3/21/2024| **Solar Cal WD** <br> Citylight measurements for full field of regard with ~6.3s (1 coadd) exposure time, no tilting north <br>
+At 2024-03-21T15:36:31Z, @rawtol0@ **started reporting frequent data corruption**, duplicated and late packets, which is related to planned maintenance activities at Riverside (from10Am-10PM EST). Three scans (006, 009, 014 could not be processed due to INR failure).
+|3/22/2024| **Solar Cal RD** <br> Citylight measurements for full field of regard with ~6.3s (1 coadd) exposure time, no tilting north
+|3/23/2024| **Solar Cal WD** <br> Citylight measurements for full field of regard with ~6.3s (1 coadd) exposure time, no tilting north
+|3/24-27/2024| Citylight measurements for full field of regard with ~6.3s (1 coadd)exposure time, no tilting north
+|3/28/2024| **Solar Cal WD**
+|3/28-4/03/2024| Citylight measurements for full field of regard with ~6.3s (1 coadd)exposure time, no tilting north 
+|4/4/2024| **Solar Cal WD**
+|4/4-10/2024| Citylight measurements for full field of regard with ~3s (1 coadd)exposure time, no tilting north
+|4/11/2024| **Solar Cal WD**
+|4/11-17/2024| Citylight measurements for full field of regard with ~3s (1 coadd)exposure time, no tilting north
+|4/18/2024| **Solar Cal WD**
+|4/18-24/2024| Citylight measurements for full field of regard with ~3s (1 coadd)exposure time, no tilting north
