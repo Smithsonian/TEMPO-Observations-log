@@ -1,4 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
+#   (10/17/2023-present)
+
+Last updated on 5/16/24
 
 For acronyms, see the TEMPO [glossary](glossary.md)
 
@@ -8,3 +11,4 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 | 3/23/24 | Solar Cal WD
 | 3/24-27/2024 | Citylight measurements for full field of regard
 | 3/28/24 | 
+
