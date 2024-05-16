@@ -70,3 +70,8 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |4/11-4/17/2024| Citylight measurements for full field of regard with ~3s (1 coadd)exposure time, no tilting north
 |4/18/2024| **Solar Cal WD**
 |4/18-4/24/2024| Citylight measurements for full field of regard with ~3s (1 coadd)exposure time, no tilting north
+|4/25/2024| **Solar Cal WD**
+|5/2/2024| **Solar Cal WD**
+|5/9/2024| **Solar Cal WD**
+|5/13/2024| **SDPCv4.4 (V03 data products)** operational processing started <br> Stuck scan occurred. Scan position got stuck near end of scan at 21:00:18Z.
+|5/16/2024| **Solar Cal WD**
