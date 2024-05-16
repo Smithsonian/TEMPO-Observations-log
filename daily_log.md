@@ -11,44 +11,31 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 | 3/23/24 | Solar Cal WD
 | 3/24-27/2024 | Citylight measurements for full field of regard
 | 3/28/24 | 
-
-|10/17/2023| **SDPC v4.1** <br> operational processing started (9 hrs)
-
-|10/18/2023| Frequent data dropouts (missing data), INR might fail and no
+| 10/17/2023| **SDPC v4.1** <br> operational processing started (9 hrs)
+| 10/18/2023| Frequent data dropouts (missing data), INR might fail and no
 subsequent data products
-
 |10/19/2023 | **Solar cal Working Diffuser (WD)** <br>
 Frequent data dropouts (missing data), INR might fail and no
 subsequent data products
-
 |10/20/2023 | Frequent data dropouts (missing data), INR might fail and no
 subsequent data products
-
 |10/21/2023 |Frequent data dropouts (missing data), INR might fail and no
 subsequent data products
-
 |10/23/2023| Some data dropout
-
 |10/26/2023| **Solar cal WD** <br>
-
 |10/29/2023| Bad INR almost all day (**no L2 data products** <br>) (R2.3.8 restart
 issue), will be reprocessed later with SDPC v4.2.
-
 |10/30/2023| Data dropout, Scan 2 (S002) scan position got stuck midway
 through scan (12:21:57Z - 13:01:43Z). Kept imaging of the same
 location. Scan 2 was still processed. Scan 3 back to normal.
-
 |11/02/2023| **Solar cal WD** <br>
-
 |11/08/2023| bad INR for scans 1-7 (R2.3.8 restart issue). Scans 8-9 are ok,
 CSM interrupted after s009. L2 data products available for scans
 1-9.
-
 |11/09/2023| **Solar cal WD**<br>
 Intelsat anc_gps dropout 16:50-20:03Z, affecting scans 7-11.
 Manually restart for scan 12, ok after that. Missing data can be
 reprocessed.
-
 |11/16/2024| **Solar cal WD**<br>
 
 11/18/2024
