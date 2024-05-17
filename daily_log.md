@@ -52,6 +52,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |2/16-2/21/2024| Citylight measurements (Partial FOR coverage due to reduced measurement time related to gradual season change, ~12.7s exposure)
 |2/22/2024| **Solar Cal WD** <br> Citylight measurements (Partial FOR coverage due to reduced measurement time related to gradual season change, ~12.7s) <br> tilted northward to measure Aurora
 |2/22-2/28/2024| Citylight measurements (~12.7s), tilted northward to measure Aurora
+|2/26/2024| **SDPCv4.3 (V02 data products)** operational processing started.
 |2/29/2024| **Solar Cal WD** <br> Same Citylight measurements as last week
 |3/1-3/6/2024| Citylight measurements (~12.7s), tilted northward to measure Aurora
 |3/7/2024| **Solar Cal WD** <br> Citylight measurements (Las Vegas, Chicago, LA, Houston, DFW regions) with ~120s exposure time with 19 coadds, tilted northward to measure Aurora
@@ -73,5 +74,5 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |4/25/2024| **Solar Cal WD**
 |5/2/2024| **Solar Cal WD**
 |5/9/2024| **Solar Cal WD**
-|5/13/2024| **SDPCv4.4 (V03 data products)** operational processing started <br> Stuck scan occurred. Scan position got stuck near end of scan at 21:00:18Z.
+|5/13/2024| **SDPCv4.4 (V03 data products)** operational processing started <br> Stuck scan occurred. Scan position got stuck near end of scan 12 (S012) at 21:00:18Z. Scan 12 covers 20:01:28Z-21:01:09Z.
 |5/16/2024| **Solar Cal WD**
