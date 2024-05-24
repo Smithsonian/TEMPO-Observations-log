@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 5/16/24
+Last updated on 5/24/24
 
 For acronyms, see the TEMPO [glossary](glossary.md)
 
@@ -76,3 +76,5 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |5/9/2024| **Solar Cal WD**
 |5/13/2024| **SDPCv4.4 (V03 data products)** operational processing started <br> Stuck scan occurred. Scan position got stuck near end of scan 12 (S012) at 21:00:18Z. Scan 12 covers 20:01:28Z-21:01:09Z.
 |5/16/2024| **Solar Cal WD**
+|5/17/2024| Scan 15 Granule 5 (S015G05) missing (data dropout led to processing issue)
+|5/23/2024| **Solar Cal WD**
