@@ -79,6 +79,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |5/17/2024| Scan 15 Granule 5 (S015G05) missing (data dropout led to processing issue)
 |5/23/2024| **Solar Cal WD**
 |5/28/2024| Data dropout. Scans 7,8,9 not at ASDC.
-|5/30/2024| **Solar Cal WD**
+|5/30/2024| **Solar Cal WD** Scan 8 missing (data dropout led to processing issue)
 |5/31/2024| Scan position got stuck shortly after Scan 1 (S001) began at 10:33:11Z. Scan 2 resumed as normal.
 |6/6/2024| **Solar Cal WD**
