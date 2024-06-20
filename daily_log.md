@@ -5,7 +5,7 @@ Last updated on 6/18/2024
 
 For acronyms, see the TEMPO [glossary](glossary.md)
 
-For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverPassPrediction)
+For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
 
 |Date | Log |
 |:-| ----|
