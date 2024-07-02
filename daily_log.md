@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 6/25/2024
+Last updated on 7/02/2024
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
 
@@ -92,3 +92,4 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |6/20/2024| **Solar Cal WD**
 |6/21/2024| **Solar Cal RD**
 |6/22/2024| **Solar Cal WD**
+|6/27/2024| **Solar Cal WD**
