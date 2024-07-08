@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 7/03/2024
+Last updated on 7/08/2024
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
 
@@ -93,4 +93,8 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |6/21/2024| **Solar Cal RD**
 |6/22/2024| **Solar Cal WD**
 |6/27/2024| **Solar Cal WD**
+|6/28/2024-7/08/2024| The June 28 IMS ice/snow cover product was used in SDPC processing for the period June 28-July 8 due to download issue.
 |7/03/2024| Scan mirror stopped advancing about midway through Scan 2 (S002) at 11:37:07Z. Scan 3 resumed as normal.
+|7/04/2024| **Solar Cal WD**
+
+
