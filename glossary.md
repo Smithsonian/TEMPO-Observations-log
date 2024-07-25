@@ -11,6 +11,7 @@
 - **INR**: Image Navigation and Registration
 - **RD**: Reference Diffuser
 - **SAO**: Smithsonian Astrophysical Observatory
+- **S/C** Spacecraft
 - **SDPC**: Science Data Processing Center (at SAO)
 - **TEMPO**: Tropospheric Emissions: Monitoring of Pollution
 - **WD**: Working Diffuser
