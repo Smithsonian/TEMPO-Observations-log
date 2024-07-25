@@ -99,5 +99,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |7/11/2024| **Solar Cal WD**
 |7/18/2024| **Solar Cal WD**
 |7/24/2024| **Unplanned S/C maintenance. No Observations taken for the day.** Resumed observations as usual 7/25.
+|7/25/2024| **Solar Cal WD**
 
 
