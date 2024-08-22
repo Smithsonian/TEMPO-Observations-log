@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 8/14/2024
+Last updated on 8/22/2024
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
 
@@ -104,6 +104,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |8/01/2024| **Solar Cal WD**
 |8/08/2024| **Solar Cal WD** Technical issues. **No radiance scan observations taken for the day.**
 |8/09/2024| Technical issues. **No radiance scan observations taken.**
-|8/10/2024-8/14/2024| Technical issues. **No radiance scan observations taken.**
+|8/10/2024-8/21/2024| Technical issues. **No radiance scan observations taken.**
+|8/22/2024| **Solar Cal WD**  <br> **Observations resume**
 
 
