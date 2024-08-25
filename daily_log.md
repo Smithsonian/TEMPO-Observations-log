@@ -106,5 +106,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |8/09/2024| Technical issues. **No radiance scan observations taken.**
 |8/10/2024-8/21/2024| Technical issues. **No radiance scan observations taken.**
 |8/22/2024| **Solar Cal WD**  <br> **Observations resume**
+|8/23/2024| **Solar Cal RD**
+|8/24/2024| **Solar Cal WD**
 
 
