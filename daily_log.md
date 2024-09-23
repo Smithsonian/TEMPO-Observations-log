@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 9/05/2024
+Last updated on 9/23/2024
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
 
@@ -109,6 +109,10 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |8/23/2024| **Solar Cal RD**
 |8/24/2024| **Solar Cal WD**
 |8/29/2024| **Solar Cal WD**
-|9/05/2024| **Solar Cal WD** <br> Citylights measurements, ~6 sec exposure, 9/05-9/11/24
+|9/05/2024| **Solar Cal WD** <br> Citylights measurements, ~6 (6.3) sec exposure, 9/05-9/11
+|9/12/2024| **Solar Cal WD** <br> Citylights measurements, 3.0 and 6.0 sec exposure 9/12-9/18
+|9/19/2024| **Solar Cal WD** <br> Citylights measurements, 6.3 sec exposure, 9/19-9/25
+|9/20/2024| **Solar Cal RD**
+|9/21/2024| **Solar Cal WD**
 
 
