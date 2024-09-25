@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 9/23/2024
+Last updated on 9/25/2024
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
 
@@ -114,5 +114,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |9/19/2024| **Solar Cal WD** <br> Citylights measurements, 6.3 sec exposure, 9/19-9/25
 |9/20/2024| **Solar Cal RD**
 |9/21/2024| **Solar Cal WD**
+|9/23/2024| Brief data dropout for Scan 14 (S014) around 23:04Z  (Scan 14 covers 22:30:16Z to 23:10:22Z) <br>Scan mirror stopped advancing near end of scan 15 (S015) at ~23:40Z for about 10 minutes. End of scan 15 is 23:50:27Z.
 
 
