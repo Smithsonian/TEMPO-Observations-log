@@ -105,15 +105,16 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |8/08/2024| **Solar Cal WD** Technical issues. **No radiance scan observations taken for the day.**
 |8/09/2024| Technical issues. **No radiance scan observations taken.**
 |8/10/2024-8/21/2024| Technical issues. **No radiance scan observations taken.**
-|8/22/2024| **Solar Cal WD**  <br> **Observations resume**
-|8/23/2024| **Solar Cal RD**
+|8/22/2024| **Solar Cal WD**  <br> **Observations resume** <br> **8/22-29** GEOS-CF forecast download failed causing CLDO4, HCHO, and NO2 retrievals to use climatology. Scan 14 (S014) on 8-22 to scan 16 (S016) 8/29.
+|8/23/2024| **Solar Cal RD** <br> 
 |8/24/2024| **Solar Cal WD**
 |8/29/2024| **Solar Cal WD**
+|8/30/2024| GEOS-CF forecast back to operational start of day (affects CLD04,HCHO and NO2 products).
 |9/05/2024| **Solar Cal WD** <br> Citylights measurements, ~6 (6.3) sec exposure, 9/05-9/11
 |9/12/2024| **Solar Cal WD** <br> Citylights measurements, 3.0 and 6.0 sec exposure 9/12-9/18
 |9/19/2024| **Solar Cal WD** <br> Citylights measurements, 6.3 sec exposure, 9/19-9/25
 |9/20/2024| **Solar Cal RD**
 |9/21/2024| **Solar Cal WD**
 |9/23/2024| Brief data dropout for Scan 14 (S014) around 23:04Z  (Scan 14 covers 22:30:16Z to 23:10:22Z) <br>Scan mirror stopped advancing near end of scan 15 (S015) at ~23:40Z for about 10 minutes. End of scan 15 is 23:50:27Z.
-
+|9/26/2024| **Solar Cal WD** <br> Citylights measurements, 6.3 sec exposure, tilt South FoR (dy=4400), 9/26-10/3
 
