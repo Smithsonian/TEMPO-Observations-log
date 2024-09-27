@@ -3,6 +3,8 @@
 
 Last updated on 9/26/2024
 
+For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
+
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
 
 For acronyms, see the TEMPO [glossary](glossary.md)
