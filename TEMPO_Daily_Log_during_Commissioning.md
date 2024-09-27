@@ -1,20 +1,17 @@
-﻿TEMPO Daily Measurements/Log during Commissioning
+**﻿TEMPO Daily Measurements/Log during Commissioning**
 (June 07, 2023 – October 16, 2023)
-
 
 Xiong Liu, Jean Fitzmaurice
 
-
 Last updated on 09/20/2024
 
+For **Nominal Operations Daily log** (10/17/23 - present), see [DailyLog](daily_log.md)
 
 Reprocessing with SDPC v4.2 (Version 1): 
 8/2, 8/9, 8/16, 8/21, 8/22, 8/23, 8/25, 8/26 were completed.
 
-
 Reprocessing with SDPC v4.3 (or Version 2):
 August-September were completed.
-
 
 Reprocessing with SDPC v4.4 (or Version 3):
 August, 2023 - May 12, 2024
