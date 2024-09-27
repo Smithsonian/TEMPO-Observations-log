@@ -118,3 +118,4 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |9/23/2024| Brief data dropout for Scan 14 (S014) around 23:04Z  (Scan 14 covers 22:30:16Z to 23:10:22Z) <br>Scan mirror stopped advancing near end of scan 15 (S015) at ~23:40Z for about 10 minutes. End of scan 15 is 23:50:27Z.
 |9/26/2024| **Solar Cal WD** <br> Citylights measurements, 6.3 sec exposure, tilt South FoR (dy=4400), 9/26-10/3
 
+For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
