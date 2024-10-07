@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 9/26/2024
+Last updated on 10/07/2024
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -119,5 +119,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |9/21/2024| **Solar Cal WD**
 |9/23/2024| Brief data dropout for Scan 14 (S014) around 23:04Z  (Scan 14 covers 22:30:16Z to 23:10:22Z) <br>Scan mirror stopped advancing near end of scan 15 (S015) at ~23:40Z for about 10 minutes. End of scan 15 is 23:50:27Z.
 |9/26/2024| **Solar Cal WD** <br> Citylights measurements, 6.3 sec exposure, tilt South FoR (dy=4400), 9/26-10/3
+|10/03/2024| **Solar Cal WD (different parameters, shorter int time)** <br> Citilights measurements, 6.3 sec exposure area scans alternate with aurora scans (tilt FoR north, 120 sec. exposure), 10/03-10/09 <br> earth darks at ~06:15:45Z
+|10/04/2024| **Solar Cal WD**
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
