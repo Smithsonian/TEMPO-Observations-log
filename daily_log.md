@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 10/16/2024
+Last updated on 10/24/2024
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -121,7 +121,9 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |9/26/2024| **Solar Cal WD** <br> Citylights measurements, 6.3 sec exposure, tilt South FoR (dy=4400), 9/26-10/3
 |10/03/2024| **Solar Cal WD (different parameters, shorter int time)** <br> Citilights measurements, 6.3 sec exposure area scans alternate with aurora scans (tilt FoR north, 120 sec. exposure), 10/03-10/09 <br> earth darks at ~06:15:45Z
 |10/09/2024| Evening city lights scan (S016) not processed due to data loss during first granule.
-|10/10/2024| **Solar Cal WD** (shorter int time) <br> Citilights measurements, area scans (~6.3 sec) plus moonlight illumination scans (~12 sec),10/10-10/16
+|10/10/2024| **Solar Cal WD** (shorter int time will be default going forward) <br> Citilights measurements, area scans (~6.3 sec) plus moonlight illumination scans (~12 sec),10/10-10/16
+|10/17/2024| **Solar Cal WD** <br> Citilights measurements, Morning city lights scans target a 200-step wide window including California (~6 sec), while evening city lights scans cover the eastern half of the field of regard (11.72 sec). 10/17-10/23
+|10/24/2024| **Solar Cal WD** <br> Citilights measurements, area scans (12 sec, 2 coadds), 10/24-10/30
 
 
 
