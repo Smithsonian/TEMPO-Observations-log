@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 01/07/2025
+Last updated on 01/16/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -139,6 +139,10 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |12/26/2024| **Solar Cal WD** <br> Citilights measurements, east-coast twilight scans are 6.27 sec exposures and will cover only the region from just eastward of Cape Cod to just westward of Chicago, yielding 4 scans per session.  The west-coast twilight scans are ~12.6 sec (2 coadds), 12/26-01/01.
 |01/02/2025| **Solar Cal WD** <br> Citilights measurements, east-coast twilight scans are 6.27 sec exposures and will cover only the region from just eastward of Cape Cod to just westward of Chicago, yielding 4 scans per session.  The west-coast twilight scans are ~12.6 sec (2 coadds), 01/02-01/08.
 |01/07/2025| City lights scan (RADT product): Scan mirror stopped advancing near start of scan 1 (S001), at 2025-01-07 10:07:27Z. End of scan at 12:26:59Z.
+|01/09/2025| **Solar Cal WD** <br> Citilights measurements, east-coast twilight scans are 6.27 sec exposures and will cover only the region from just eastward of Cape Cod to just westward of Chicago, yielding 4 scans per session.  The west-coast twilight scans are ~12.6 sec (2 coadds), 01/09-01/15.
+|01/13/2025| Citilights (RADT) S017G03,S018 delayed/reprocessing.
+|01/15/2025| Citilights (RADT) S017G03,S018 delayed/reprocessing.
+|01/16/2025| **Solar Cal WD** <br> Citilights measurements, east-coast twilight scans are 6.27 sec exposures and will cover only the region from just eastward of Cape Cod to just westward of Chicago, yielding 4 scans per session.  The west-coast twilight scans are ~12.6 sec (2 coadds), 01/16-01/22.
 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
