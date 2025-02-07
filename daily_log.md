@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 01/27/2025
+Last updated on 02/07/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -143,6 +143,9 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |01/13/2025| Citilights (RADT) S017G03,S018 delayed/reprocessing required.
 |01/15/2025| Citilights (RADT) S017G03,S018 delayed/reprocessing required.
 |01/16/2025| **Solar Cal WD** <br> Citilights measurements, east-coast twilight scans are 6.27 sec exposures and will cover only the region from just eastward of Cape Cod to just westward of Chicago, yielding 4 scans per session.  The west-coast twilight scans are ~12.6 sec (2 coadds), 01/16-01/22.
-|01/23/2025| **Solar Cal WD** <br> Citilights measurements, area scans (12 sec, 2 coadds), 01/23-01/29.
+|01/23/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~12 sec, 2 coadds), 01/23-01/29.
+|01/30/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~12 sec, 2 coadds), 01/30-02/05.
+|02/06/2025| **Solar Cal WD** **Unplanned S/C maintenance. No radiance observations taken until 21:22Z, starting with S011.** Observations resumed as usual for rest of the day. Scans S001-S010 do not exist. <br> Citilights measurements, area scans (~12 sec, 2 coadds), 02/06-02/12.
+|02/07/2025| **Unplanned S/C maintenance. No radiance observations taken until 17:22Z, starting with S007.** Observations resumed as usual for rest of the day. Scans S001-S006 do not exist.
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
