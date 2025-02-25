@@ -149,6 +149,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |02/07/2025| **Unplanned S/C maintenance. No radiance observations taken until 17:22Z, starting with S007.** Observations resumed as usual for rest of the day. Scans S001-S006 do not exist.
 |02/13/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~12 sec, 2 coadds), 02/13-02/19.
 |02/20/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~12 sec, 2 coadds), 02/20-02/26.
-|02/22/2025| Scans S002-S008 delayed, reprocessing required due to GOES-18 data outage/gap. Processing resumed as normal with scan S009.
+|02/22/2025| Scans S002-S008 delayed, reprocessing required. GOES-18 data outage/gap. Processing resumed as normal with scan S009.
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
