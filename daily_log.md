@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 03/14/2025
+Last updated on 03/17/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -153,6 +153,8 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |02/27/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~12 sec, 2 coadds), 02/27-03/05.
 |03/02-03/05/2025| Because IMS snow and ice cover updates were not available March 2-5, TEMPO data collected during this period were processed using IMS data from March 1. IMS updates resumed on March 6.
 |03/06/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~6 sec, 1 coadd), 03/06-03/12.
-|03/13/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~6 sec, 1 coadd), 03/13-03/19.
+|03/07,08,09/2025| Because IMS snow and ice cover updates were not available March 7-9, TEMPO data collected during this period were processed using IMS data from March 6. IMS updates resumed March 10.
+|03/12/2025| GEOS-CF forecast was unavailable for part of March 12 due to system maintenance. Climatology was used as input for CLDO4,HCHO and NO2 retrievals for S013,S014.
+|03/13/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~6 sec, 1 coadd), 03/13-03/19. <br>  GEOS-CF forecast was unavailable March 13 due to system maintenance.  Climatology was used as input for CLDO4,HCHO and NO2 retrievals S002 to S014.
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
