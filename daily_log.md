@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 03/26/2025
+Last updated on 03/28/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -160,5 +160,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |03/20/2025| **Solar Cal RD** <br> Citilights measurements, area scans (~6 sec, 1 coadd), 03/20-03/26.
 |03/21/2025| **Solar Cal WD**
 |03/25/2025| Scan mirror stopped advancing near end of Scan 12 (S012) starting at 21:45:40Z. S012 goes from 21:14:47Z-21:57:11Z. Next scan resumed as normal.
+|03/27/2025| **Solar Cal WD** <br> **Special Observations** Perform 12 min. scans covering Geneva State Forest Alabama (prescribed burn) and NYC alternating hourly with FoR scans <br> Citilights measurements, area scans (~6 sec, 1 coadd), 03/27-04/02.
+|03/28/2025| **Special Observations** Perform 12 min. scans covering Geneva State Forest Alabama (prescribed burn) and NYC alternating hourly with FoR scans.
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
