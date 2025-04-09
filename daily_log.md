@@ -165,5 +165,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |03/28/2025| **Special Obs:** Perform 12 min. scans covering Geneva State Forest Alabama (prescribed burn) and NYC alternating hourly with FoR scans.
 |04/03/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~6 sec, 1 coadd), 04/03-04/09.
 |04/07/2025| Scan mirror stopped advancing at 21:28:38Z, in middle of Scan 12 (S012) 21:10:56Z - 22:10:37Z. Next scan resumed as normal.
+|04/09/2025| **Special Obs** S006 and S007 (scans 6 and 7).
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
