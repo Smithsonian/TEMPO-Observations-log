@@ -175,9 +175,9 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |05/15/2025| **Solar Cal WD**
 |05/22/2025| **Solar Cal WD**
 |05/29/2025| **Solar Cal WD**
-|05/31/2025| **Special obs. scans S011, S012, S013** for calibration starting at 20:51:12Z.
-|06/01/2025| **Special obs. scans S013, S014, S015** starting at 20:40Z.
-|06/02/2025| **Special obs. scans S013, S014, S015**, starting at 20:20Z.
-
+|05/31/2025| **Special obs. scans** S011, S012, S013 for calibration starting at 20:51:12Z (1 hr total).
+|06/01/2025| **Special obs. scans** S013, S014, S015 starting at 20:40Z (1 hr total).
+|06/02/2025| **Special obs. scans** S013, S014, S015, starting at 20:20Z (1 hr total).
+|06/03/2025| **Special obs. scans** S013, S014, S015, starting at 20:30Z (1 hr total).
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
