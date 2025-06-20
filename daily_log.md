@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 06/10/2025
+Last updated on 06/20/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -182,6 +182,9 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |06/03/2025-06/06/2025| The June 3rd IMS ice/snow cover product was used in SDPC processing for June 3-June 6 due to no IMS update since June 3.
 |06/05/2025| **Solar Cal WD** <br> **Special obs scans**: S012, S013, S014, starting at 20:20Z (1 hr total).
 |06/09/2025| **SDPCv4.6** operational processing started.
+|06/12/2025| **Solar Cal WD**
+|06/19/2025| **Solar Cal WD** <br> **Special obs.** scans (10 min.), 83W to 93W, Scans 12-28 (S012-S028) from 20:06Z to 23:06Z.
+|06/20/2025| **Solar Cal RD** 
 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
