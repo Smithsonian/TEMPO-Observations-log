@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 06/20/2025
+Last updated on 07/14/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -184,7 +184,11 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |06/09/2025| **SDPCv4.6** operational processing started.
 |06/12/2025| **Solar Cal WD**
 |06/19/2025| **Solar Cal WD** <br> **Special obs.** scans (10 min.), 83W to 93W, Scans 12-28 (S012-S028) from 20:06Z to 23:06Z.
-|06/20/2025| **Solar Cal RD** 
+|06/20/2025| **Solar Cal RD**
+|06/21/2025| **Solar Cal WD**
+|06/26/2025| **Solar Cal WD**
+|07/03/2025| **Solar Cal WD**
+|07/10/2025| **Solar Cal WD**
 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
