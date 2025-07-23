@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 07/14/2025
+Last updated on 07/23/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -189,6 +189,8 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |06/26/2025| **Solar Cal WD**
 |07/03/2025| **Solar Cal WD**
 |07/10/2025| **Solar Cal WD**
+|07/17/2025| **Solar Cal WD**
+|07/22/2025| **Unplanned S/C maintenance** No radiance measurements taken for most of the day. Only S001 (granules G01-G04) and S013,S014 scans exist.
 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
