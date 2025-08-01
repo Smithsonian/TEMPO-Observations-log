@@ -193,7 +193,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |07/22/2025| **Unplanned S/C maintenance** No radiance measurements taken for most of the day. Only S001 (granules G01-G04) and S013,S014 scans exist. The missing data from S001 prevented the completion of INR processing for that scan so no corresponding RAD_L1 products were generated for S001.
 |07/24/2025| **Solar Cal WD**
 |07/25 - 07/28| Special obs. scans: alternating hourly with FoR scans (10 min. scans over Colorado/Salt Lake City)
-|07/31/2025| **Unplanned S/C maintenance.**  No radiance observations taken after Scan 1 (S001).
+|07/31/2025| **Solar cal WD** <br> **Unplanned S/C maintenance.**  No radiance observations taken after Scan 1 (S001).
 |08/01/2025| **Unplanned S/C maintenance.**  No radiance observations taken for the day.
 
 
