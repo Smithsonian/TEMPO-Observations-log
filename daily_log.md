@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 08/01/2025
+Last updated on 08/05/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -192,9 +192,9 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |07/17/2025| **Solar Cal WD**
 |07/22/2025| **Unplanned S/C maintenance** No radiance measurements taken for most of the day. Only S001 (granules G01-G04) and S013,S014 scans exist. The missing data from S001 prevented the completion of INR processing for that scan so no corresponding RAD_L1 products were generated for S001.
 |07/24/2025| **Solar Cal WD**
-|07/25 - 07/28| Special obs. scans: alternating hourly with FoR scans (10 min. scans over Colorado/Salt Lake City)
+|07/25 - 07/28/2025| Special obs. scans: alternating hourly with FoR scans (10 min. scans over Colorado/Salt Lake City)
 |07/31/2025| **Solar cal WD** <br> **Unplanned S/C maintenance.**  No radiance observations taken after Scan 1 (S001).
-|08/01/2025| **Unplanned S/C maintenance.**  No radiance observations taken for the day.
+|08/01-08/05/2025| **Unplanned S/C maintenance.**  No radiance observations taken for this period.
 
 
 
