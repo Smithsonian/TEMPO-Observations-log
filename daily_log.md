@@ -195,7 +195,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |07/25 - 07/28/2025| Special obs. scans: alternating hourly with FoR scans (10 min. scans over Colorado/Salt Lake City)
 |07/31/2025| **Solar cal WD** <br> **Unplanned S/C maintenance.**  No radiance observations taken after Scan 1 (S001).
 |08/01-08/06/2025| **No radiance observations taken for this period.**
-|08/06/2025| TEMPO is resuming nominal operations starting at 10:45 PM EDT on 8/6/25 following an outage starting 7/31/25 due to contractual reasons.  The TEMPO Instrument health was not affected by this outage.
+|08/06/2025| TEMPO is resuming nominal operations starting at 10:34 PM EDT on 8/6/25 following an outage starting 7/31/25 due to contractual reasons.  The TEMPO Instrument health was not affected by this outage.
 
 
 
