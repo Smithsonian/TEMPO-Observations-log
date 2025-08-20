@@ -202,6 +202,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |08/16/2025| Unplanned S/C maintenance occurred around 1700 EST (2100 UTC). Missing data from scan 12 (S012) prevented completion of INR processing so no corresponding products exist for S012. No observations taken after 1700 EST (2100 UTC).
 |08/17/2025| Scanning resumes as normal.
 |08/18/2025| Special obs. scans: alternating hourly with FoR scans (10 min. scans over Colorado/Salt Lake City)
+|08/19/2025| Special obs. scans: alternating hourly with FoR scans (10 min. scans over Colorado/Salt Lake City)
 
 
 
