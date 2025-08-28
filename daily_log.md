@@ -204,7 +204,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |08/18/2025| Special obs. scans: alternating hourly with FoR scans (10 min. scans over Colorado/Salt Lake City)
 |08/19/2025| Special obs. scans: alternating hourly with FoR scans (10 min. scans over Colorado/Salt Lake City)
 |08/21/2025| **Solar Cal WD** <br> Scan mirror stopped advancing at 12:25:30Z at the end of Scan 2 (S002). Next scan resumed as normal.
-|08/28/2025| **Solar Cal WD** <br> City lights over Commerce, CA (~120 s exposure) with Eastern FoR area scans (~6 s exposure).
+|08/28/2025| **Solar Cal WD** <br> Citylights measurements over Commerce, CA (~120 s exposure) with Eastern FoR area scans (~6 s exposure), 8/28 - 9/4.
 
 
 
