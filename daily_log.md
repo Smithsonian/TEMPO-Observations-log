@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 09/04/2025
+Last updated on 09/11/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -206,7 +206,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |08/21/2025| **Solar Cal WD** <br> Scan mirror stopped advancing at 12:25:30Z at the end of Scan 2 (S002). Next scan resumed as normal.
 |08/28/2025| **Solar Cal WD** <br> Citylights measurements over Commerce, CA (~120 s exposure) with Eastern FoR area scans (~6 s exposure), 8/28 - 9/4.
 |09/04/2025| **Solar Cal WD** <br> Citylights measurements, Western and Eastern FOR area scans (~6 sec. exposure), 9/04-9/11.
-
+|09/09/2025| Special observations, Scan 10 (S010) starting at 19:05Z  and Scan 11 (S011) starting at 19:55Z.
 
 
 
