@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 09/17/2025
+Last updated on 09/23/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -209,6 +209,9 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |09/09/2025| Special observations, Scan 10 (S010) starting at 19:05Z  and Scan 11 (S011) starting at 19:55Z.
 |09/11/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 9/11-9/18.
 |09/17/2025| **SDPCv4.7 (V04** standard data products) operational processing started. TEMPO **NRT (V02)** products begin production and are publicly released.
+|09/18/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 9/18-9/25
+|09/19/2025| **Solar Cal RD**
+|09/20/2025| **Solar Cal WD**
 
 
 
