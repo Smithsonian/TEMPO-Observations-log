@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 09/29/2025
+Last updated on 10/03/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -215,6 +215,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |09/25/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 9/25-10/02.
 |09/26/2025| Scan 10 (S010) not processed due to data gap.
 |09/27/2025| Scan 2 (S002) not processed. Scan 7 (S007) not processed due to data gap.
+|10/02/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 10/02-10/09.
 
 
 
