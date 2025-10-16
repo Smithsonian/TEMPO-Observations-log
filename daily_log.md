@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 10/09/2025
+Last updated on 10/15/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -220,6 +220,8 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |10/07/2025| Due to scheduled S/C maintenance(two maneuvers today), there will be nine regular radiance scans, S001 to S009. Starting at 13:20:35Z. 
 |10/08/2025| **Special obs. scans**: From approximately 20:30Z to 21:30Z, special scans for calibration: **S011, S012, S013**.
 |10/09/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 10/09-10/16.<br> **Special obs. scans**: From approximately 20:30Z to 21:30Z, special scans for calibration **S011, S012, S013**.
+|10/10/2025| **Special obs. scans**: From approximately 20:30Z to 21:30Z, special scans for calibration **S010,S012,S013**.
+|10/16/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 10/16-10/23.
 
 
 
