@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 10/15/2025
+Last updated on 10/23/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -212,9 +212,10 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |09/18/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 9/18-9/25
 |09/19/2025| **Solar Cal RD**
 |09/20/2025| **Solar Cal WD**
+|09/22/2025| INR errors apparent in S008, likely due to a GOES-19 data outage associated with a yaw flip maneuver.  S007-S009 may be affected.
 |09/25/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 9/25-10/02.
 |09/26/2025| Scan 10 (S010) not processed due to data gap.
-|09/27/2025| Scan 2 (S002) not processed. Scan 7 (S007) not processed due to data gap.
+|09/27/2025| An unplanned ground system power outage caused data loss/corruption. Scans 2 (S002) and 7 (S007) not processed, bad INR solution for scans 8-13.
 |10/02/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 10/02-10/09.
 |10/06/2025| **Special obs. scans**: From approximately 20:30Z to 21:30Z, special scans for calibration: **S011, S012, S013**.
 |10/07/2025| Due to scheduled S/C maintenance(two maneuvers today), there will be nine regular radiance scans, S001 to S009. Starting at 13:20:35Z. 
@@ -222,6 +223,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |10/09/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 10/09-10/16.<br> **Special obs. scans**: From approximately 20:30Z to 21:30Z, special scans for calibration **S011, S012, S013**.
 |10/10/2025| **Special obs. scans**: From approximately 20:30Z to 21:30Z, special scans for calibration **S011,S012,S013**.
 |10/16/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 10/16-10/23.
+|10/23/2025| **Solar Cal WD** <br> Citilights measurements: Alternate days of area scans (~12 s exposure) with aurora scans (tilt FoR north, ~120 s exposure) 10/23-10/30.
 
 
 
