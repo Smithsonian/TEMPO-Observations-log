@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 11/06/2025
+Last updated on 11/14/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -211,7 +211,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |09/17/2025| **SDPCv4.7 (V04** standard data products) operational processing started. TEMPO **NRT (V02)** products begin production and are publicly released.
 |09/18/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 9/18-9/25
 |09/19/2025| **Solar Cal RD**
-|09/20/2025| **Solar Cal WD**
+|09/20/2025| **Solar Cal WD** 
 |09/22/2025| INR errors apparent in S008, likely due to a GOES-19 data outage associated with a yaw flip maneuver.  S007-S009 may be affected.
 |09/25/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 9/25-10/02.
 |09/26/2025| Scan 10 (S010) not processed due to data gap.
@@ -228,6 +228,8 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |11/01/2025| Scan 11  (S011) could not be processed due to INR bug.
 |11/03/2025| **Special obs. scans**: Two 20 minute Calibration scans starting at 15:27Z and 16:18Z, S005 and S006.
 |11/06/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 11/06-11/13.
+|11/12/2025| S007 not processed due to data gap.
+|11/13/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 11/13-11/20.
 
 
 
