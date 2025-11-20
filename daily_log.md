@@ -230,7 +230,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |11/06/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 11/06-11/13.
 |11/12/2025| S007 not processed due to data gap.
 |11/13/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 11/13-11/20.
-
+|11/20/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 11/20-11/27.
 
 
 
