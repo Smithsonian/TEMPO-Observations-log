@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 12/02/2025
+Last updated on 12/04/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -233,6 +233,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |11/20/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 11/20-11/27.
 |11/27/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 11/27-12/04.
 |12/02/2025| Due to scheduled S/C maintenance(two maneuvers today), there will be nine regular radiance scans, S001 to S009. Starting at 13:51:35Z.
+|12/04/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 12/04-12/11.
 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
