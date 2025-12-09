@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 12/04/2025
+Last updated on 12/09/2025
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -88,9 +88,9 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |5/30/2024| **Solar Cal WD** Scan 8 missing (data dropout led to processing issue)
 |5/31/2024| Scan mirror stopped advancing shortly after Scan 1 (S001) began at 10:33:11Z. Scan 2 resumed as normal.
 |6/6/2024| **Solar Cal WD**
-|6/13/2024|**Solar Cal WD** <br> **Special Observations**: Calibration campaign, scans S012,S013,S014 starting 20:40:31Z total duration 1 hour
-|6/14/2024| **Special Observations**: Calibration campaign, scans S012,S013,S014 starting 20:40Z total duration 1 hour
-|6/16/2024| **Special Observations**: Calibration campaign, scans S012,S013,S014 starting 20:10:55Z total duration 1 hour
+|6/13/2024|**Solar Cal WD** <br> **Special Observations**: Calibration campaign at Railroad Valley, scans S012,S013,S014 starting 20:40:31Z total duration 1 hour
+|6/14/2024| **Special Observations**: Calibration campaign at Railroad Valley, scans S012,S013,S014 starting 20:40Z total duration 1 hour
+|6/16/2024| **Special Observations**: Calibration campaign at Railroad Valley, scans S012,S013,S014 starting 20:10:55Z total duration 1 hour
 |6/20/2024| **Solar Cal WD**
 |6/21/2024| **Solar Cal RD**
 |6/22/2024| **Solar Cal WD**
@@ -165,7 +165,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |03/28/2025| **Special Obs:** Perform 12 min. scans covering Geneva State Forest Alabama (prescribed burn) and NYC alternating hourly with FoR scans.
 |04/03/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~6 sec, 1 coadd), 04/03-04/09.
 |04/07/2025| Scan mirror stopped advancing at 21:28:38Z, in middle of Scan 12 (S012) 21:10:56Z - 22:10:37Z. Next scan resumed as normal.
-|04/09/2025| **Special Obs**: S006 and S007 (scans 6 and 7). Otherwise nominal scan pattern.
+|04/09/2025| **Special Obs**: Lunar collects, S006 and S007 (scans 6 and 7). Otherwise nominal scan pattern.
 |04/10/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~6 sec, 1 coadd), 04/10-04/16.
 |04/17/2025| **Solar Cal WD** <br> **Special Obs:** April 17: interleaved 10 minute scans to observe the prescribed burn experiment in the Fort Stewart, GA area. <br> Citilights measurements, area scans (~6 sec, 1 coadd), 04/17-04/23.
 |04/24/2025| **Solar Cal WD** <br> Citilights measurements, area scans (~6 sec, 1 coadd), 04/24-04/30.
@@ -175,12 +175,12 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |05/15/2025| **Solar Cal WD**
 |05/22/2025| **Solar Cal WD**
 |05/29/2025| **Solar Cal WD**
-|05/31/2025| **Special obs. scans**: S011, S012, S013 for calibration starting at 20:51:12Z (1 hr total).
-|06/01/2025| **Special obs. scans**: S013, S014, S015 starting at 20:40Z (1 hr total).
-|06/02/2025| **Special obs. scans**: S013, S014, S015, starting at 20:20Z (1 hr total).
-|06/03/2025| **Special obs. scans**: S013, S014, S015, starting at 20:30Z (1 hr total).
+|05/31/2025| **Special obs. scans**: Railroad Valley S011, S012, S013 for calibration starting at 20:51:12Z (1 hr total).
+|06/01/2025| **Special obs. scans**: Railroad Valley S013, S014, S015 starting at 20:40Z (1 hr total).
+|06/02/2025| **Special obs. scans**: Railroad Valley S013, S014, S015, starting at 20:20Z (1 hr total).
+|06/03/2025| **Special obs. scans**: Railroad Valley S013, S014, S015, starting at 20:30Z (1 hr total).
 |06/03/2025-06/06/2025| The June 3rd IMS ice/snow cover product was used in SDPC processing for June 3-June 6 due to no IMS update since June 3.
-|06/05/2025| **Solar Cal WD** <br> **Special obs scans**: S012, S013, S014, starting at 20:20Z (1 hr total).
+|06/05/2025| **Solar Cal WD** <br> **Special obs scans**: Railroad Valley S012, S013, S014, starting at 20:20Z (1 hr total).
 |06/09/2025| **SDPCv4.6** operational processing started.
 |06/12/2025| **Solar Cal WD**
 |06/19/2025| **Solar Cal WD** <br> **Special obs.** scans (10 min.), 83W to 93W, Scans 12-28 (S012-S028) from 20:06Z to 23:06Z.
@@ -206,7 +206,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |08/21/2025| **Solar Cal WD** <br> Scan mirror stopped advancing at 12:25:30Z at the end of Scan 2 (S002). Next scan resumed as normal.
 |08/28/2025| **Solar Cal WD** <br> Citylights measurements over Commerce, CA (~120 s exposure) with Eastern FoR area scans (~6 s exposure), 8/28 - 9/4.
 |09/04/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 9/4-9/11.
-|09/09/2025| Special observations, Scan 10 (S010) starting at 19:05Z  and Scan 11 (S011) starting at 19:55Z.
+|09/09/2025| Special observations, Lunar collects: Scan 10 (S010) starting at 19:05Z  and Scan 11 (S011) starting at 19:55Z.
 |09/11/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 9/11-9/18.
 |09/17/2025| **SDPCv4.7 (V04** standard data products) operational processing started. TEMPO **NRT (V02)** products begin production and are publicly released.
 |09/18/2025| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 9/18-9/25
@@ -226,7 +226,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |10/23/2025| **Solar Cal WD** <br> Citilights measurements: Alternate days of area scans (~12 s exposure) with aurora scans (tilt FoR north, ~120 s exposure) 10/23-10/30.
 |10/30/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 10/30-11/06.
 |11/01/2025| Scan 11  (S011) could not be processed due to INR bug.
-|11/03/2025| **Special obs. scans**: Two 20 minute Calibration scans starting at 15:27Z and 16:18Z, S005 and S006.
+|11/03/2025| **Special obs. scans**: Lunar collects: Two 20 minute calibration scans starting at 15:27Z and 16:18Z, S005 and S006.
 |11/06/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 11/06-11/13.
 |11/12/2025| S007 not processed due to data gap.
 |11/13/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 11/13-11/20.
