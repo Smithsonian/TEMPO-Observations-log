@@ -241,5 +241,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |12/18/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 12/18-12/25.
 |12/25/2025| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 12/25-01/01.
 |01/01/2026| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 01/01-01/08.
+|01/06/2026| **SDPCv4.8.0** (V04 RADT products) operational processing started. Minor updates to other V04 products. Refer to product User Guides for details.
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
