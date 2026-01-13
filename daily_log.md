@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 01/09/2026
+Last updated on 01/13/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -245,5 +245,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |01/07/2026| **Unplanned S/C maintenance** during Scan 11 (S011) at 22:10Z. Scan 11 not processed due to missing data. No scanning for rest of the scan day.
 |01/08/2026| Scanning resumed with scan 6 (S006) at 16:45Z. 
 |01/09/2026| **Solar cal WD**
+|01/09/2026-01/13/2026| The Jan. 8 IMS ice/snow cover product was used in SDPC processsing for Jan.9-Jan.12 and part of Jan. 13 due to a download issue. 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
