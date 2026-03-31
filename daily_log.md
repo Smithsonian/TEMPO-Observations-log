@@ -260,6 +260,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |03/20/2026| **Solar Cal RD**
 |03/21/2026| **Solar Cal WD**
 |03/26/2026| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 03/26-04/02.
-|03/31/2026| Due to scheduled S/C maintenance(two maneuvers today), there will be nine regular radiance scans, S001 to S009, starting at 13:12:56Z. There is one evening citylights scan (RADT product, S010).
+|03/31/2026| Due to scheduled S/C maintenance(two maneuvers today), there will be eight regular radiance scans, S001 to S008, starting at 13:12:56Z. There is one evening citylights scan (RADT).
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
