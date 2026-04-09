@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 04/08/2026
+Last updated on 04/09/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -264,5 +264,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |04/01/2026| Special observations over Cape Canaveral, FL for Artemis launch, starting 22:12:38Z to 23:25:57Z (scans S013 to S026). <br> Then special twilight radiance scans over Cape Canaveral, FL (1 coadd, ~6 s exposure) 23:35:57Z to 2026-04-02T00:30:15Z (RADT).
 |04/02/2026| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 04/02-04/09.
 |04/08/2026| Special observations over Ft. Stewart, GA planned prescribed burn and Atlanta area. Five minute special scans for one hour alternating with nominal hourly FOR scans.
+|04/09/2026| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 04/09-04/16.
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
