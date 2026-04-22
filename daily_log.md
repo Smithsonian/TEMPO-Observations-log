@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 04/15/2026
+Last updated on 04/22/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -267,5 +267,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |04/09/2026| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 04/09-04/16.
 |04/10 to 04/12/2026| Special observations over Ft. Stewart, GA planned prescribed burn and Atlanta area. Five minute special scans for one hour alternating with nominal hourly FOR scans.
 |04/16/2026| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 04/16-04/23.
+|04/20/2026| Scan 14 (S014) was not processed due to data download issue.
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
