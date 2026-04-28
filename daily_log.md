@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 04/23/2026
+Last updated on 04/28/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -269,5 +269,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |04/16/2026| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 04/16-04/23.
 |04/20/2026| Scan 14 (S014) was not processed due to data download issue.
 |04/23/2026| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 04/23-4/30.
+|04/26/2026| **Special obs. scans**: Lunar collects: Two 6 minute calibration scans starting at 13:58Z for scan 6 (S006) and 14:42Z for scan 8 (S008)
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
