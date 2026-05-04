@@ -271,5 +271,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |04/23/2026| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 04/23-4/30. 
 |04/26/2026| **Special obs. scans**: Lunar collects: Two 6 minute calibration scans starting at 13:58Z for scan 6 (S006) and 14:42Z for scan 8 (S008)
 |04/30/2026| **Solar Cal WD** 
+|05/01/2026| Scan 9 (S009) and 10 (S010) were not processed to completion due to data gaps.
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
