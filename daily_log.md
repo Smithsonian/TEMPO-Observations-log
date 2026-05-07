@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 04/30/2026
+Last updated on 05/07/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -272,5 +272,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |04/26/2026| **Special obs. scans**: Lunar collects: Two 6 minute calibration scans starting at 13:58Z for scan 6 (S006) and 14:42Z for scan 8 (S008)
 |04/30/2026| **Solar Cal WD** 
 |05/01/2026| Scan 9 (S009) and 10 (S010) were not processed to completion due to data gaps.
+|05/07/2026| **Solar Cal WD** <br> Special observations over Colorado starting at 17:05Z (6 10 min. scans: Scan 9,10,11,12,13,14) alternating with one hour of full FOR (scan 15) and then another hour of special obs. (Scan 16,17,18,19,20,21).
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
