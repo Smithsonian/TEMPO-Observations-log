@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 05/12/2026
+Last updated on 05/14/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -276,5 +276,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |05/08/2026| **Special observations** over Colorado starting at 17:05Z (6 10 min. scans: Scan 9,10,11,12,13,14) alternating with one hour of full FOR (scan 15) and then another hour of special obs. (Scan 16,17,18,19,20,21)
 |05/11/2026| **Special observations** over Colorado starting at 17:05Z (6 10 min. scans: Scan 9,10,11,12,13,14) alternating with one hour of full FOR (scan 15) and then another hour of special obs. (Scan 16,17,18,19,20,21)
 |05/12/2026| **Unplanned S/C maintenance.** No radiance measurements taken from 10:59Z to 17:05Z. Scan 1 not processed due to data gap (S001). Scanning resumed as normal with Scan 9 (S009) at 17:05Z. 
+|05/13/2026| **Special observations** over California region (Redding, CA) (around -125 to -115 longitude) starting at 17:05Z (6 10 min. scans: Scan 9,10,11,12,13,14) alternating with one hour of full FOR (scan 15) then another hour of special obs.(scan 16,17,18,19,20,21).
+
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
