@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 05/19/2026
+Last updated on 05/21/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -280,5 +280,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |05/14/2026| **Solar Cal WD** <br> Scan 10 (S010) was not processed to completion due to data gap.
 |05/15/2026| **Special Observations** over California region (Redding, CA) 17:05Z to 19:05Z (12 10 minute scans) Scans 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
 |05/18/2026| **Special Observations** over California region (Redding, CA) 17:05Z to 19:05Z (12 10 minute scans)  Scans 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+|05/20/2026| **Special Observations** over California region (Redding, CA) 17:05Z to 19:05Z (12 10 minute scans)  Scans 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+|05/21/2026| **Solar Cal WD** 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
