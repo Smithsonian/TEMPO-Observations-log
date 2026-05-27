@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 05/22/2026
+Last updated on 05/27/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -281,8 +281,9 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |05/15/2026| **Special Observations** over California region (Redding, CA) 17:05Z to 19:05Z (12 10 minute scans) Scans 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
 |05/18/2026| **Special Observations** over California region (Redding, CA) 17:05Z to 19:05Z (12 10 minute scans)  Scans 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
 |05/20/2026| **Special Observations** over California region (Redding, CA) 17:05Z to 19:05Z (12 10 minute scans)  Scans 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
-|05/21/2026| **Solar Cal WD** <br> **Special Observations** over Colorado to California region (20 minute scans) 17:05Z to 19:05Z: Scans 9,10,11,12,13,14 <br> Special obs. Scan 13 (which started at 18:25Z) not processed due to data gap.
-
+|05/21/2026| **Solar Cal WD** <br> **Special Observations** over Colorado to California region (20 minute scans) 17:05Z to 19:05Z: Scans 9,10,11,12,13,14. One full FOR scan then 20:05Z to 22:00Z: Scans 16-21. <br> Special obs. Scan 13 (which started at 18:25Z) not processed due to data gap.
+|05/22/2026| **Special Observations** over Colorado to California region (20 minute scans) 17:05Z to 19:05Z: Scans 9,10,11,12,13,14. One full FOR scan then 20:05Z to 22:00Z: Scans 16-21. 
+|05/24/2026| Scans 16,17,and 18 (last three scans of the day) were not processed due to computer system load issue. Will be processed at a later date.
 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
