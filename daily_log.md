@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 06/23/2026
+Last updated on 06/26/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -292,6 +292,8 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |06/20/2026| **Solar Cal WD** <br> From approx. 21:10Z to 22:10Z, **special obs. scans** for calibration over Railroad Valley, **S013,S014,S015**.
 |06/21/2026| From approx. 21:10Z to 22:10Z, **special obs. scans** for calibration over Railroad Valley, **S013,S014,S015**.
 |06/22/2026| From approx. 21:10Z to 22:30Z, **special obs. scan**s for calibration over Railroad Valley, **S013,S014,S015**.
+|06/25/2026| **Solar Cal WD** <br> From approx. 23:10Z to 01:10Z, **special 10-min. scans** over LA/SF.
+|06/26/2026| From approx. 23:10Z to 01:10Z, **special 10-min. scans** over LA/SF.
 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
