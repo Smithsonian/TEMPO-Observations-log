@@ -296,6 +296,9 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |06/26/2026| From approx. 23:10Z to 01:10Z, **special 10-min. scans** over LA/SF.
 |06/29/2026| From approx. 23:10Z to 01:10Z, **special 10-min. scans** over LA/SF.
 |07/01/2026| From approx. 23:10Z to 01:10Z, **special 10-min. scans** over LA/SF.
-|07/02/2026| **Solar Cal WD**
+|07/02/2026| **Solar Cal WD** <br> **Special Obs** from 90W to 100W, 10-minute scans from approx. 19:12Z to 20:12Z and 21:12Z to 22:12Z <br> Scans 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30
+|07/03/2026| **Special Obs** from 90W to 100W, 10-minute scans from approx. 19:12Z to 20:12Z and 21:12Z to 22:12Z <br> Scans 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30
+|07/04/2026| **Special Obs** from 90W to 100W, 10-minute scans from approx. 19:12Z to 20:12Z and 21:12Z to 22:12Z <br> Scans 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30
+|07/05/2026| **Special Obs** over Washington, DC, 5-minute scans from 11:12:36Z to 12:32:20Z <br> Scans 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 <br> **Special Obs** over Los Angeles, CA, 5-minute scans from 14:13:00Z to 16:12:36Z <br> Scans 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
