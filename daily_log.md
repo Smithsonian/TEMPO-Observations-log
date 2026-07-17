@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 07/14/2026
+Last updated on 07/17/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -304,5 +304,6 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |07/07/2026| **Special Obs** 10-minute scans from 80W to 90W beginning around 19:13Z and alternating with nominal hourly scans. There is a scheduled S/C maneuver which resulted in fewer special scans. <br> Scans 11, 12, 13, 14, 15
 |07/08/2026| **Special Obs** 10-minute scans from 80W to 90W beginning around 19:13Z and alternating with nominal hourly scans. <br> Scans 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30
 |07/09/2026| **Solar Cal WD** 
+|07/16/2026| **Solar Cal WD** <br> **Unplanned GOES-19 (east) outage** Scans 001 to S021 were not processed. Expect to be processed at later date TBD. 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
