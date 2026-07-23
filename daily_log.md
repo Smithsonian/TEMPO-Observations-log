@@ -306,6 +306,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |07/09/2026| **Solar Cal WD** 
 |07/16/2026| **Solar Cal WD** <br> **Unplanned GOES-19 (east) outage** Scans 001 to S021 were not processed. Expect to be processed at later date TBD. <br> **Special Obs.** 10 min. scans western CO to western Nevada for 2 hours 9-11AM MT (15:15Z to 17:15Z): Scans 7 to 18.
 |07/17/2026| **Special Obs.** 10 min. scans on July 16 and 17: western CO to western Nevada for 2 hours 9-11AM MT (15:15Z to 17:15Z): Scans 7 to 18.
+|07/23/2026| **Solar Cal WD**
 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
