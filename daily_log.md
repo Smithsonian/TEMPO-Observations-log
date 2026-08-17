@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 08/12/2026
+Last updated on 08/17/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -312,6 +312,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |08/03/2026| **Special Obs.** Lunar collects: Two 6 minute calibration scans (S014 and S016).
 |08/06/2026| **Solar Cal WD** <br> **Special Obs.** 10 min. scans western CO to western Nevada for 2 hours (16:14Z to 18:14Z). Scans 8 to 19.
 |08/07/2026| **Special Obs.** 10 min. scans western CO to western Nevada for 2 hours (16:14 to 18:14Z). Scans 8 to 19.
+|08/15/2026| **Special Obs.** 10 min. scans western CO to western Nevada for 2 hours (~18:40Z to 20:40Z). Scans 8 to 19.
 
 
 
