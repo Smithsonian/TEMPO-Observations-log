@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 08/25/2026
+Last updated on 09/02/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -318,7 +318,11 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |08/21/2026| **Special Obs.** 1 hr. of 10 min. scans western CO to western Nevada alternating with nominal scans starting after 12 MT (~18:40Z) <br> special scans 10-15, 17-22, 24-27 and 29-32.
 |08/22/2026| **Special Obs.** 1 hr. of 10 min. scans western CO to western Nevada alternating with nominal scans starting after 12 MT (~18:40Z) <br> special scans 10-15, 17-22, 24-27 and 29-32.
 |08/25/2026| **Special Obs.** 1 hr. of 10 min. scans western CO to western Nevada alternating with nominal scans starting after 12 MT( ~18:40Z)
-
+|08/26/2026| **Special Obs.** 1 hr of 10 min. scans western CO to western Nevada alternating with nominal scans starting after 12 MT (~18:40Z).
+|08/27/2026| **Solar Cal WD**
+|08/28/2026| The August 27th IMS ice/snow cover product was used in SDPC processing for August 28-30 due to no IMS update.
+|08/29/2026| The August 27th IMS ice/snow cover product was used in SDPC processing for August 28-30 due to no IMS update.
+|08/30/2026| The August 27th IMS ice/snow cover product was used in SDPC processing for August 28-30 due to no IMS update.
 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
