@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 09/21/2026
+Last updated on 09/25/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -331,6 +331,9 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |09/18/2026| **Solar Cal WD**
 |09/19/2026| **Solar Cal RD**
 |09/20/2026| **Solar Cad WD**
+|09/22/2026| GOES East and West data production issue may have affected geolocation for scans S002-S004. Also, GOES East scheduled maneuver outage occurred during scans S008 and beginning of S009 which may have affected geolocation.
+|09/24/2026| **Solar Cal WD** <br> Citlights measurements area scans (~6 s exposure) 09/24-09/30.
+
 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
