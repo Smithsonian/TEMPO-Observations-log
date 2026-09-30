@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 09/25/2026
+Last updated on 09/30/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -333,6 +333,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |09/20/2026| **Solar Cad WD**
 |09/22/2026| GOES East and West data production issue may have affected geolocation for scans S002-S004. Also, GOES East scheduled maneuver outage occurred during scans S008 and beginning of S009 which may have affected geolocation.
 |09/24/2026| **Solar Cal WD** <br> Citlights measurements area scans (~6 s exposure) 09/24-09/30.
+|09/25/2026| Scan mirror stopped advancing at ~14:00Z, in the middle of scan 5 (S005), about 30 minutes into the full FOR scan. The next scan resumed as normal.
 
 
 
