@@ -1,7 +1,7 @@
 # TEMPO Daily Log during Nominal Operation
 #   (10/17/2023-present)
 
-Last updated on 10/14/2026
+Last updated on 10/16/2026
 
 For Commissioning period Daily log, (6/2023-10/16/23), see [CommissioningLog](TEMPO_Daily_Log_during_Commissioning.md)
 
@@ -337,7 +337,7 @@ For acronyms, see the TEMPO [glossary](glossary.md)
 |10/01/2026| **Solar Cal WD** <br> Citilights measurements area scans (~6 s exposure) 10/01-10/07.
 |10/08/2026| **Solar Cal WD** <br> Citlights measurements area scans (~6 s exposure) 10/08-10/14.
 |10/09/2026| **Special Obs** 10 min. scans alternating hourly with nominal scans (95 W to 105 W, western edge of Colorado Front Range to western Oklahoma) <br> Special Scans 6,7,8,9,10,11; 13,14,15,16,17,18; 20,21,22,23,24,25; 27,28,29,30,31,32; 34,35,36,37. 
-
+|10/15/2026| **Solar Cal WD** <br> Citilights measurements area scans (~12 s exposure) 10/15-10/21. <br> Scan S012 not processed to completion due to error.
 
 
 For Current week's predicted overpass times at certain sites, see [OverPass](https://tempo.si.edu/OverpassPrediction)
